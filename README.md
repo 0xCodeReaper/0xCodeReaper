@@ -18,7 +18,7 @@ I am looking for help with improving my skills in Python and Solidity.
 You can ask me about my experience in teaching and translation, my interest in technology, blockchain, and cryptocurrency, or my current learning goals.
 
 📫 How to Reach Me
-You can reach me by email at taboret9@gmail.com.
+You can reach me by email at 0xcodereaper@gmail.com.
 
 😄 Pronouns
 He/him.
